@@ -1,5 +1,5 @@
 # 🌸 Hi, I'm Juliana Mel!
-<br/>
+
 📖 Currently studying Software Engineering.<br/>
 🌿 I enjoy pop music, gaming, drawing, mangas and comics alike, and some other things.<br/>
 🌾 I have experience in video editing, drawing, and some Adobe programs, as well as DaVinci Resolve. <br/>
