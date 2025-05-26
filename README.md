@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🌸 Hi, I'm Juliana Mel!
+<br/>
+📖 Currently studying Software Engineering.<br/>
+🌿 I enjoy pop music, gaming, drawing, mangas and comics alike, and some other things.<br/>
+🌾 I have experience in video editing, drawing, and some Adobe programs, as well as DaVinci Resolve. <br/>
+🌱 Hoping to create a game myself someday.<br/><br/>
 
-<!--
-**Toxicaotic/Toxicaotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack
+![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats
+[![Toxicaotic's GitHub stats](https://github-readme-stats.vercel.app/api?username=toxicaotic&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⋆.˚✮🎧✮˚.⋆
